@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "fields": [
+    {
+      "field": "SERVER_URL",
+      "displayName": "Finaltest-Aditigu2 Server Url",
+      "type": "String",
+      "minLength": 0,
+      "maxLength": 0,
+      "required": true,
+      "description": "Finaltest-Aditigu2 API Server Url",
+      "default": "https://test.com",
+      "example": "https://test.com",
+      "helpSection": ""
+    },
+    {
+      "field": "USERNAME",
+      "displayName": "Finaltest-Aditigu2 Username",
+      "type": "String",
+      "minLength": 0,
+      "maxLength": 0,
+      "required": true,
+      "description": "Finaltest-Aditigu2 API Username",
+      "default": "",
+      "example": "304720394u3",
+      "helpSection": ""
+    },
+    {
+      "field": "PASSWORD",
+      "displayName": "Finaltest-Aditigu2 Password",
+      "type": "String",
+      "minLength": 0,
+      "maxLength": 0,
+      "required": true,
+      "description": "Finaltest-Aditigu2 API Password",
+      "default": "",
+      "example": "304720394u3",
+      "helpSection": ""
+    }
+  ]
+}
